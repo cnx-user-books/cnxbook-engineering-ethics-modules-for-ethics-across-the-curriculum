@@ -1,0 +1,313 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Ethical Implications for Engineering - Student Module</title>
+
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m17226</md:content-id>
+  <md:title>Ethical Implications for Engineering - Student Module</md:title>
+  <md:abstract>Caution: This module is incomplete.  Authors plan to add more content shortly.  This student module summarizes a presentation developed by Efrain O'Neill and Luis Jimenez for developing student awareness and competencies in engineering ethics.  It defines ethics, provides a brief introduction to three ethical theories, sets forth useful frameworks and templates for ethical problem solving in engineering, and outlines the professional and code-based ethical responsibilities of engineers in Puerto Rico.  A corresponding instructor module provides engineering professors with guidelines for integrating these matters into their courses.  This instructor module employs a "train the trainers" strategy that is amenable both to an EAC (ethics across the curriculum) and ABET strategy. This module is being developed as a part of a project funded by the National Science Foundation, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779.</md:abstract>
+  <md:uuid>d3c1f0b6-0da0-42d4-b432-092d7fed593d</md:uuid>
+</metadata>
+
+<!-- DO NOT EDIT THE INFORMATION, INSTEAD GO TO THE METADATA TAB IN EDITOR -->
+
+<!-- START OF THE CONTENT/BODY OF THIS CNX MODULE -->
+<content>
+
+<note id="id10635950" type="ENGINEERING ETHICS LINKS"><label>ENGINEERING ETHICS LINKS</label>Several links have been provided to give access to up to date information on different aspects of engineering ethics.  These links are described below.<code id="id3839514" display="block">- Online Ethics is an excellent resource for cases and essays in engineering ethics.
+It also provides links to other sites such as the Center for Engineering Ethics and Society, 
+a branch of the National Academy of Engineering.
+
+- Computing Cases highlights three large case studies in computer and engineering ethics:
+Therac-25, Hughes Aircraft, and Machado.  Clicking on the link provided above provides access
+to the IEEE material on organizational and professional dissent.
+
+- The National Institute of Engineering Ethics website can be access through the final
+link.  It provides study materials on the videos Incident at Morales and Gilbane Gold.
+It also contains the ethics cases developed by the National Society for Professional
+Engineer's Board of Ethical Review.  Here, the BER publishes its decisions on cases
+brought to it by members as a means of interpreting and clarifying the NSPE code of ethics.
+
+- Other materials on engineering ethics can be accessed through these three links
+mentioned above.
+</code>
+</note>
+
+<figure id="figure-example"><title>Ethics for Engineering Presentation</title>
+  <media id="id21853748" alt=""><download src="EthicsforEngineeringICOMCapstone-1.pdf" mime-type="application/pdf"/></media>
+  <caption>Clicking on this media file opens the presentation of this module given in March 2008 at the University of Puerto Rico at Mayaguez</caption>
+
+
+<!-- Other common MIME TYPES are &#8220;image/jpeg&#8221; for ___.jpg, &#8220;audio/mpeg&#8221; for ___.mpg, 
+&#8220;video/quicktime&#8221; for ___.mov, &#8220;application/powerpoint&#8221; for ___.ppt
+&#8220;application/excel&#8221; for ___.xls OR you can search for other MIME TYPES--></figure>
+
+
+
+<!-- START OF INTRODUCTION SECTION -->
+  <section id="intro-section">
+  <title>Introduction</title>
+
+   <para id="introduction-section">This module expands upon a presentation given to capstone classes in engineering at the University of Puerto Rico at Mayaguez.  Designed by Luis Jimenez to provide students with an introduction to ethical approaches in the context of engineering, it has expanded to cover practical skills in problem solving and the professional context of engineering in Puerto Rico.  For those interested in ABET accreditation and reaccreditation, it touches on the themes of  (1) professional and ethical responsibility, (2) integrating ethics into design projects, and (3) generating awareness of the social and global impacts of engineering.  Students and faculty consulting this module will find the capstone course presentation, background information pertinent to engineering ethics in Puerto Rico, and exercises that help students develop an active and practical understanding of how ethics fits into engineering practice.  </para>
+
+<!-- LINK TO DOCUMENT UPLOADED AND STORED IN FILES SECTION OF THIS MODULE -->
+  
+<!-- LINK TO MULTIMEDIA FILE UPLOADED AND STORED IN FILES SECTION OF MODULE -->
+  
+
+</section>
+<!-- END OF INTRODUCTION SECTION -->
+
+
+
+<!-- START OF SECOND SECTION -->
+   <section id="whatYouNeedToKnow-section">
+   <title>What you need to know …</title>
+
+
+
+
+<section id="Basics-info">
+   <title>Ethical Theories and Encapsulating Tests</title>
+   <para id="element-224">Engineering ethics works with different ethical theories.  This section will provide a brief outline of three: Deontology, Utilitarianism, and virtue ethics.  At the bottom of this page, you will find a media file that presents in tabular form the concepts that underlie these three ethical approaches.</para><list id="element-970" list-type="bulleted"><title>Deontological Ethical Theories.</title><item>The word "deontology" comes from two Greek words, "deon (duty) and "logos" (account of or study of).  Literally, then, deontology is the ethical theory that provides an account of duty.  Deontology has different versions based on the different possible foundations for duty, including moral autonomy (Kant), a hypothetical social contract (Hobbes, Locke, Rawls), or natural law.</item>
+	<item>Deontology differs from consequentialism.  For consequentialism, the moral value of an action lies in its results or consequences.  Deontology evaluates actions independently of their consequences; it places the moral value of an action on its formal characteristics.  These include universalizability, reversibility, and autonomy.</item>
+	<item><emphasis>Universalizability</emphasis>: Actions that take on the form of duty are universalizable.  Because they apply equally to all people at all times, they do not allow individuals to make themselves exceptions to the universal rule.  Kant provides different tests to determine if an action exhibits the formal characteristics of duty.  If the rule expressed by the action (its 'maxim') can be converted into a universal law without defeating itself, then it is a rule of moral duty.  Truth telling expresses a rule that can be universalized.  Telling lies does not.  (Imagine a possible world in which everybody lied.  If telling lies were universalized, then communication would become impossible.  When universalized, the rule of telling lies is self-defeating.)</item>
+	<item><emphasis>Reversibility</emphasis>: Moral actions are also reversible.  Here, duty functions more or less according to the Golden Rule.  You treat others as you would have them treat you.  The action, acceptable from the agent's perspective (the perspective of the doer), is also acceptable when viewed from the receiving end (the perspective of those under its impact).</item>
+	<item><emphasis>Respect for Autonomy</emphasis>: Rules of duty recognize and respect autonomy both in those suffering the impact of the action and in the agent.  Kant expresses this last point in his formula of the end: Treat humanity (yourself included) always as ends and never merely as means.  Treating individuals as ends implies recognizing that they, like you, have the capacity for autonomy, that is, they can formulate life plans and then organize and discipline themselves to carry them out; treating others as ends entails recognizing and respecting this autonomy.  Treating someone merely as a means involves actions that circumvent autonomy through force, deception, manipulation, or fraud.  Treating someone as a means (distinguished from treating them <emphasis>merely</emphasis> as a means), for example, hiring an individual to work for you as an employee, is morally permissible provided the relation is formed freely and knowingly.</item>
+</list><table id="element-420" summary="">
+<title>Categorical Imperative or Self-Defeating Test</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry>Step One</entry>
+    <entry>Formulate your maxim</entry>
+    <entry>I can tell a lie to escape a difficulty</entry>
+  </row>
+  <row>
+    <entry>Step Two</entry>
+    <entry>Universalize your maxim</entry>
+    <entry>Everyone can tell a lie to escape a difficulty.</entry>
+  </row>
+  <row>
+    <entry>Step Three</entry>
+    <entry>Ask the question: <emphasis>Is the universalized maxim self-defeating</emphasis></entry>
+    <entry>What if everyone told a lie when they were in a difficulty?  To escape from the difficulty, the lie would have to be believable.  But nobody would believe a lie in a world where telling lies was the universal law.</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table><list id="element-50" list-type="bulleted"><title>Self-Defeating test applied to copying an exam</title><item>Consider another example.</item>
+	<item>Suppose you are tempted to copy the answers for your exam from your neighbor's paper.</item>
+	<item><emphasis>What is the maxim?</emphasis></item>
+	<item><emphasis>Universalize the maxim.</emphasis></item>
+	<item><emphasis>Is it self-defeating when universalized?</emphasis></item>
+	<item><emphasis>Hint:</emphasis> Think of the world in which copying is universalized as a room where everybody sits at desks arranged in a circle.  You copy from your neighbor, your neighbor from her neighbor, and so on.  Now, given this arrangement, is it is self-defeating?</item>
+</list><list id="element-604" list-type="enumerated"><title>These basic tenants of Deontology make it possible to understand basic rights and duties as measures taken to recognize and respect autonomy.</title><item>Definition: A <emphasis>right</emphasis> is an essential capacity of action that others are obliged to recognize and respect.  "Essential" here is understood as necessary for the exercise of autonomy.</item>
+	<item>A right claim is legitimate if it protects a capacity of action that is <emphasis>(a) essential</emphasis> to autonomy, <emphasis>(b) vulnerable</emphasis> to a standard threat, and that (c) it's recognition and respect does not deprive others of something essential (<emphasis>feasible</emphasis>).</item>
+	<item>A <emphasis>duty</emphasis> is a principle or rule that obliges individuals to recognize and respect one another's rights.</item>
+	<item>Duties sort themselves out into three levels: (a) the most basic duties are those not to deprive others of their rights; (b) intermediate duties create obligations to prevent right deprivations; (c) the highest duty level lies in the obligation (most often social rather than individual) to aid those who have been deprived of their rights.</item>
+	<item>Rights and duties are <emphasis>correlative</emphasis>.  This means that my rights impose on others the correlative duties to recognize and respect them.  And I have correlative duties to recognize and respect the rights of others.  The extent of the correlative duties we impose on ourselves and others is limited by feasibility; your rights claims over me do not extend to the point where they deprive me of something essential.</item></list><list id="element-96" list-type="enumerated"><title>The following rights claims have been asserted by engineers against the business organizations for which they work.  (These claims quoted directly from Bill Baker, Engineering Ethics: An Overview.  Claims form a "Bill of Rights" set forth by Murray A. Muspratt of Chisholm Institute of Technology, Victoria, Australia (American society of Civil Engineers' Journal of Professional Issues in Engineering, October 1985)</title>
+
+<item>"The right to act in according to ethical conscience and to decline assignments where a variance of moral opinion exists.</item>
+
+<item>The right to express professional judgment, and to make public pronouncements that are consistent with corporate constraints on proprietary information.</item>
+
+<item>The right to corporate loyalty and freedom from being made a scapegoat for natural catastrophes, administrative ineptitude or other forces beyond the engineer's control.</item>
+
+<item>The right to seek self-improvement by further education and involvement in professional associations.</item>
+
+<item>The right to participate in political party activities outside of working hours.</item>
+
+<item>The right to apply for superior positions with other companies without being blacklisted.</item>
+
+<item>The right to due process and freedom from arbitrary penalties or dismissal.</item>
+
+<item>The right to appeal for ethical review by a professional association, ombudsman or independent arbitrator.</item></list><list id="element-362" list-type="bulleted"><title>Consequentialism and Utilitarianism</title><item>In consequentialism, the moral value of an action lies in the consequences or results it produces.</item>
+	<item>The range of consequences that factor into a moral evaluation determines the form of consequentialism.  If one seeks only to maximize good for oneself, then one is an <emphasis>egoist</emphasis>.  <emphasis>Utilitarians</emphasis>, on the other hand, try to maximize the good for all of those who are affected by the action.
+</item>
+	<item>Utilitarianism is based on a <emphasis>principle of utility</emphasis>: Choose that action or policy that maximizes utility, that is, brings about the <emphasis>greatest good for the greatest number</emphasis>.</item>
+	<item>Utility is maximized by producing the greatest quantity of good things in conjunction with the smallest quantity of bad things.  So <emphasis>hedonists</emphasis> seek to maximize pleasure and minimize pain.  Other utilitarians seek to maximize things of <emphasis>intrinsic value</emphasis> (happiness, truth, beauty, friendship, knowledge) while minimizing things of negative value.  <emphasis>Individual preference utilitarians</emphasis> seek to produce conditions where the maximum number of people can satisfy their preferences while minimizing conditions that frustrate the satisfaction of these individual preferences.</item>
+	<item>A utilitarian-based decision requires going through several steps: (1) Determine the likely results of your action; (2)Determine the magnitude and range of these results by looking at how severe the impact are and how many people would be affected; (3) Sort these results into positive (goods/values/preferences/benefits) and negative (bads/lack of value/frustrated preferences/harms) categories; (4) Do this for all the available alternatives; (5)Determine which maximizes positives and minimizes negatives, i.e., determine which is utility maximizing.</item></list><list id="element-740" list-type="enumerated"><title>Utilitarianism and Decision Making</title>
+	<item><emphasis>Determine the likely results of your action.</emphasis></item>
+	<item>Estimate the magnitude and range of these results.  <emphasis>Magnitude</emphasis> is the severity of the impact.  Does it lead to catastrophic harms?  Uncertain but potentially great benefits?  Are the impacts negligible in terms of their severity?  <emphasis>Range</emphasis> focuses on the numbers of groups and individuals who feel the action's impacts.  Are the impacts distributed over many people and groups or just a few?  Considering the range and magnitude helps to identify the most important consequences and to set aside those least important.</item>
+	<item>Sort out the likely results with significant magnitudes and ranges into positive and negative categories.  Positive consequences includes goods, values, preferences, and benefits.  They also extended to rights protected or promoted.  Negative consequences include bads, disvalues, frustrated preferences, and harms.</item>
+<item>Repeat steps one through three for several courses of action.  Come up with a rough calculation of positive and negative results factoring in the magnitude and range of these.</item>
+<item>Determine which solution maximizes positive results and minimizes negative results.  This will give you the utility-maximizing solution</item></list><list id="element-824" list-type="bulleted"><title>Calculating Utility Using Markets (Based on Sagoff (1986)</title><item>Your neighborhood has a vacant lot.  After several years of disuse, different local special interest groups contend over how it should be used.</item>
+	<item>A nation-wide department store chain wants to build a large store on this lot.  The store would be surrounded by a parking lot.  This would provide you and your neighbors with cheap goods.  It would provide employment but would also seriously undermine some of the more traditional stores in your area.</item>
+	<item>A local environmental group has petitioned the state to set aside this area as a nature preserve or park.  It could serve as a buffer that would help contain pollution from the city.  It would also provide recreation opportunities for you and your neighbors.</item>
+	<item>Preference utilitarianism would create hypothetical markets to measure the value of these different use options.  The utility maximizing solution would turn the land over to the most highly valued use.</item>
+	<item><emphasis>Willingness to pay</emphasis>: One way to find out how intensely you and your neighbors value turning the land over to recreation and park use would be to survey you all on whether and by how much would you be willing to have your taxes raised to buy this land and set it aside for park recreation use.  If this willingness to pay higher taxes expressed by you and your neighbors exceeds the price the department store chain is willing to pay, then this would indicate that your preferences are more intense and utility would be maximized by satisfying them.</item>
+	<item>But many object to the use of willingness to pay as a measure of preference intensity.  Willingness to pay, they claim, is limited by ability to pay and while the national store chain may prefer it less, they may have more disposable income.  A better measure of how the community values this land and the uses it may be put to, is to assume they own it and then ask how much they would be willing to accept from those who want to purchase it and use it to build a department store.  <emphasis>Willingness to sell</emphasis> is less dependent on disposable income and therefore a better measure of how a commodity or utility is valued.</item>
+	<item>Which measure do you think best records utility, willingness to pay or willingness to sell?  Why?</item>
+	<item>Could hypothetical markets be used to determine how much you value keeping your personal information private?  Can we convert privacy to intellectual property and then calculate its value in terms of willingness to pay or willingness to sell?  Or is privacy a distinct right whose value is intrinsic and cannot be subjected to actual or hypothetical markets?</item></list><list id="element-924" list-type="bulleted"><title>Are you a Deontologist or a Utilitarian?</title>
+	<item>Would you walk away from Omelas?</item>
+	<item>Ursula LeGuin wrote a fascinating short story entitled, “The Ones Who Walked Away from Omelas.”  It describes a city in which almost everything is perfect.  Almost all the inhabitants are happy and prosperous.  Everything seems perfect until the visitor to the city discovers that all the happiness and prosperity of the city are purchased by inflicting unimaginable suffering on one innocent young girl.  She is kept alone in a dark room, denied kindness and human interaction, and forced to live in appalling material conditions.  At the end of her story, LeGuin poses for us a choice: Would you choose to live in a city where the happiness of the many (including you) is purchased by channeling all unhappiness onto one unfortunate innocent victim?</item>
+	<item><emphasis>Would a Deontologist walk away from Omelas?  Why or why not?</emphasis></item>
+	<item><emphasis>Would a Utilitarian walk away from Omelas?  Why or why not?</emphasis></item>
+	</list><list id="element-622" list-type="bulleted"><title>Virtue Ethics</title>
+	<item>Virtue ethics differs from deontology and consequentialism.</item>
+<item>First, rather than focusing on the action it focuses on the agent.  The action eminates from the character of the agent; hence, evaluate the action in terms of what it says about the agent.</item>
+<item>Second, it raises the bar in moral analysis.  Instead of focusing on harm minimalization or on the moral minimum, virtue ethics is really about moral excellence.  Virtue translates the Greek word, "arete" which can also be translated by excellence.  Thus, virtues are excellences and moral virtues are moral excellences.</item>
+<item>Finally, virtues point, not just to the individual, but to the community.  They represent habits of action performed by individuals that bring about the goods that sustain the social surroundings.  Professional virtues are patterns of action performed by professionals that keep the profession healthy and vibrant.</item>
+</list><list id="element-644" list-type="bulleted"><title>Aristotle's definitions of Virtue or Arete</title>
+	<item>"a state of character concerned with choice, lying in a mean, i.e., the mean relative to us, this being determikned by a rational principle and by that principle by which [a person] of practical wisdom would determine it."  (Ross's translation in Nicomachean Ethics, 1106b, 36.</item>
+	<item>Virtues are excellences of character.  Aristotle finds them in the mean lying betweentwo extremes which are termed "vices."  Invices of excess, we have too much of a good thing.  So recklessness is too much courage.  In vices of defect, we have too little of a good thing.  So cowardice is the vice of too little courage.</item>
+	<item>Cardinal Virtues: temperance, courage, wisdom, and justice.  The last represents the ordering of temperance and courage under wisdom and insight into the nature of good.</item></list><list id="element-908" list-type="bulleted"><title>MacIntyre's definition of virtue (MacIntyre 2007)</title><item>"A virtue is an acquired human quality the possession and exercise of which tends to enable us to achieve those goods which are internal to practices and the lack of which effectively prevents us from achieving any such goods.</item>
+	<item>Goods internal to engineering would include such things as (1) the health, safety, and welfare of the public which is served by the virtue of holding this good paramount in engineering design, (2) remaining loyal to the legitimate interests of the client which is displayed by the virtue of avoiding conflicts of interest, keeping client concerns confidential and exercising due care in engineering design, (3) upholding the honor and integrity of the profession which is upheld in displaying excellences in expert witnessing, superising the preparation of engineering plans, and upholding and advancing standards of excellent engineering practice, and (4) collegiality which is advanced through the excellence of treating peers respectfully, giving them credit, and working with them to advance engineering knowledge and practice.</item>
+</list><list id="element-523" list-type="bulleted"><title>Responsibility as a Virtue (Fingarette 1974)</title><item>Herbert Fingarette, in <emphasis>Criminal Insanity</emphasis>, characterizes reponsibility as "responsiveness to essential relevance."  (186)  This implies, through perceptual, intellectual, and emotional sensitivities, the ability to recognize and respond appropriately to the (morally) relevant personal, moral, legal, and physical aspects of the situation.  For example, engineers have the knowledge and skill to recognize threat to safety in situations that the rest of us might overlook.  Thus, the civil engineer could spot weaknessness in a bridge that could lead to its collapse and would then be able to recommend fixes for this weakness based on engineering skill and knowledge.</item>
+	<item>Part of this responding is the ability to attribute an action to an agent for the purpose of praising or blaming.  We can praise or blame an individual for an action if that individual satisfy (1) an identity/causal condition in the sense that the agent caused the action and the agent's identity persists over time, (2) an agent has moral sense, that is, has general moral capabilitite that allow for the perception of moral relevance, and (3) that the agent owns the action in the sense that the action stems from situational knowledge and was not forced, manipulated, or compelled.  This is a reactive sense of responsibility that focuses on the past.</item>
+	<item>In responsibility as a virtue, we (1) diffuse blame avoidance strategies, (2) design role responsibilities that overlap, (3) extend the scope of depth of knowledge, (4) extend our powers and control in a situation, and (5) adopt a proactive, problem solving preventive approach.</item></list><para id="messag4">Please see the <link url="http://creativecommons.org/licenses/by/2.0/">Creative Commons License</link> regarding permission to reuse this material.</para>
+   </section>
+
+<section id="EthicalTheories-info">
+   <title>An Outline of Engineering Codes of Ethics</title>
+<para id="element-75">The relation between engineering as a profession and society can be understood as a <emphasis>hypothetical</emphasis> social contract.  The contract is hypothetical because no actual agreement has taken place; representatives from engineering and society never sat down and negotiated terms of a social contract.  Yet the relation that has naturally evolved between engineering and society can be summarized as a social contract where each party gives something beneficial to the other.  Contracts, in general, are mutually beneficial exchanges; to be legitimate these agreements must be entered into knowingly and voluntarily.  These two requirements form the basis of much of engineering ethics, especially the different codes set forth by different engineering professional societies.  Engineers provide products and services that benefit clients and society.  But these also entail risks that, while they cannot be eliminated, can be minimized.  Engineers are duty-bound to minimize these risks and inform the client and public about the nature of these risks.  They are also required to participate in the social, collective decision as to the acceptability of these risks by communicating technical engineering matters in a clear and accessible manner.  The first table below summarizes the exchange between society and the profession of engineering that forms the basis of this social contract. </para><table id="element-57" summary="">
+<title>Engineering's Contract with Society</title>
+<tgroup cols="2"><tbody>
+		<row>
+			<entry><emphasis>Society to Profession</emphasis></entry>
+			<entry><emphasis>Profession to Society</emphasis></entry>
+		</row>
+		<row>
+			<entry>Autonomy (Society allows experts to regulate themseives)</entry>
+			<entry>Self-Regulation (Experts regulate themselves toward public welfare)</entry>
+		</row>
+		<row>
+			<entry>Prestige (Society gives engineers prestige and adequate compensation for services)</entry>
+			<entry>(Engineers promise to hold public welfare paramount in engineering practice)</entry>
+		</row>
+		<row>
+			<entry>Monopoly (Society allows profession to determine those allowed to practice)</entry>
+			<entry>Engineers promise to practice ethically and, through codes, to establish and enforce high practical and disciplinary standards)</entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table><para id="message6">Working from this social contract, engineering has formulated various rules, principles, and duties that have been embodied in different codes of ethics such as that of the ECPD (Engineering Council for Professional Development), the NSPE (National Society of Professional Engineers), the ASME (American Society of Mechanical Engineers), the ASCE (American Society of Civil Engineers), and the CIAPR (Colegio de Ingenieros y Agrimensores de Puerto Rico).  These codes can usefully be interpreted as stakeholder codes where different engineering stakeholders have been identified along with their needs and correlative engineering duties based on recognizing and respecting these needs.  (An engineering stakeholder is any group or individual dependent on the activities of engineers.  Their "stakes" consist of the needs and interests they have riding on the outcome of engineeirng decisions and actions.)  The following table identifies four key engineering stakeholders, their interests and engineering duties based on preserving or promoting these stakes.</para><table id="element-827" summary="">
+<title>Outlines of Engineering Stakeholder Codes of Ethics</title>
+<tgroup cols="3"><tbody>
+		<row>
+			<entry><emphasis>Engineering Stakeholder&gt;</emphasis></entry>
+			<entry>&gt;<emphasis>Stake, Need, or Interest&gt;</emphasis></entry>
+			<entry>&gt;<emphasis>Engineering Duty&gt;</emphasis></entry>
+		</row>
+		<row>
+			<entry>Public</entry>
+			<entry>Wellbeing, health, safety, environmental integrity</entry>
+			<entry>Duty to hold paramount the health, safety, welfare, and environment of the public</entry>
+		</row>
+		<row>
+			<entry>Client</entry>
+			<entry>Due to knowledge gap, the need to have engineers treat their interests as their (engineer's) own</entry>
+			<entry>Exercising due care in professional judgment avoiding conflicts of interests and maintaining confidentiality</entry>
+		</row>
+		<row>
+			<entry>Profession</entry>
+			<entry>Reputation, honor, and dignity</entry>
+			<entry>Engineers have duty to uphold the reputation, honor, and dignity of the profession in activities like testifying in court as expert witnesses</entry>
+		</row>
+		<row>
+			<entry>Colleges/Peers (other engineers)</entry>
+			<entry>Collegial, cooperative relations with peers</entry>
+			<entry>Engineers must treat their colleagues with respect including avoiding disloyal competition, public criticism, and comparative advertising.</entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table>
+   </section>
+
+
+</section>
+
+
+<!-- END OF SECOND SECTION -->
+
+
+<!-- START OF THIRD SECTION -->
+   <section id="whatYouWillDo-section">
+   <title>What you will do ...</title>
+
+<para id="what-you-will-do-section"/>
+
+
+
+<section id="EX1-info">
+   <title>Exercise One: The Socio-Technical System for Engineering in Puerto Rico</title>
+   <para id="element-249">Go to the next module in this course, "Socio-technical Systems in Professional Decision Making, m14025/latest.  Study the text boxes on socio-technical systems and then construct a STS table on your branck of engineering in the Puerto Rican context.  Use the sample STS Tables in the module to get you started but be sure to contextualize and specify your STS analysis. </para>
+   </section>
+
+<section id="EX2-info">
+   <title>Exercise Two: Preparing a Solution Evaluation Matrix</title>
+   <para id="messag9">To carry out this exercise, go to the module in this course entitled, "Three Frameworks for Ethical Decisikon Making and Good Computing Reports," m13757.  This module outlines three ethics tests to help generate, evaluate, and compare solution alternatives for ethical problems.  It also proposes a Solution Evaluation Matrix to help you integrate ethical considerations into the decision making process.  Finally, carry out the decision making exercise at the end of the module by working through the short problem scenario.  </para>
+   </section>
+
+<section id="EX3-info">
+   <title>Exercise Three: Problem Solving and the Incident at Morales</title>
+   <para id="message10">Go to the module on Incident at Morales.  Enact the public hearning with your teacher and classmates.  Concentrate on approaching responsibility in its proactive sense by going beyond blame, working collectively to prevent future disasters (learn from the past), and look for ways of turning this unfortunate incident into an opportunity to realize value and achieve excellence.</para>
+   </section>
+
+<section id="EX4-info">
+   <title>Exercise Four: Working With the Code of Ethics</title>
+   <para id="message11">Write a code of ethics for engineers in your particular branch.  First, identify the key stakeholders to engineering practice.  Then identify their vulnerable needs.  Finally, base your code of activities that engineers can perform to consistently maintain and enhance these stakeholder needs and interests.</para>
+   </section>
+
+</section>
+
+<!-- END OF THIRD SECTION -->
+
+
+<!-- START OF FORTH SECTION -->
+   <section id="whatDidYouLearn-section">
+   <title>What did you learn?</title>
+
+<para id="what-did-you-learn-section">This section provides closure to the module for students.  It may consist of a formal conclusion that summarizes the module and outlines its learning objectives.  It could provide questions to help students debrief and reflect on what they have learned. Assessment forms (e.g., the “Muddiest Point” Form) could be used to evaluate the quality of the learning experience.  In short, this section specifies the strategy for bringing the module to a close. </para>
+
+</section>
+
+<!-- END OF FOURTH SECTION -->
+
+
+<!-- START OF APPENDIX SECTION -->
+   <section id="appendix-section">
+   <title>Appendix</title>
+
+<para id="eip-478"><title>ABET 3f  Ten Years Later</title><media id="id21853759" alt=""><download src="ABET Criterion 3f_V4.pptx" mime-type="application/pptx"/></media>
+</para><para id="eip-572"><title>Jeopardy for Engineering Ethics</title><media id="jeopardy-pres1" alt="Engineering Ethics Jeopardy">
+  <download mime-type="application/zip" src="EE_Jeopardy_1.pptx"/>
+</media>
+</para><para id="eip-855"><title>Engineering Ethics Across the Curriculum: Module 1</title><media id="EE_EAC-pres" alt="Engineering Ethics Introductory Module">
+  <download mime-type="application/zip" src="EE_EACModule.pptx"/>
+</media>
+</para><section id="element-502"><title>Bibliography</title><list id="element-506" list-type="enumerated"><item>Baker, B. W., "Engineering Ethics: An Overview, in Smith," J. and Harper, P. M., eds.  (2004)  <emphasis>Engineering Ethics: Concepts, Viewpoints, Cases and Codes</emphasis>.  National Institute for Engineering Ethics: 121-22.</item>
+	<item>MacIntyre, A.  (2007, 1982)  <emphasis>After Virtue: A Study in Moral Theory, 3rd Edition</emphasis>.  Notre Dame, IN: Notre Dame University Press: 191.</item>
+	<item>Sagoff, M.  (1986)  <emphasis>The Economy of the Earth: Philosophy, Law, and the Environment</emphasis>.  Cambridge, U.K.: Cambridge University Press: 24-49.</item>
+	<item>Fingarette, H.  (1972, 1974)  <emphasis>The Meaning of Criminal Insanity</emphasis>.  Berkeley, CA: University of California Press: 186.</item>
+<item>Harris, C.E., Pritchard, M.S., Rabins, M. J.  (1995)  <emphasis>Engineering Ethics: Concepts and Cases</emphasis>, 1st Edition.  Belmont, CA: Wadsworth Publishing Company: 29-33.</item>
+</list><list id="element-405" list-type="enumerated"><title>Engineering Ethics in Puerto Rico and Latin America</title><item>Lugo, E.  (1985)  <emphasis>Etica Profesional Para La Ingenieria</emphasis>.  Mayaguez, Puerto Rico: Libreria Universal.</item>
+	<item>Munoz-Roman, W.  (1997)  <emphasis>Etica en la Practica Profesional de la Ingenieria: Aspectos Filosoficos, Historicos y Procesales</emphasis>.  San Juan, PR: Universidad Politecnica de Puerto Rico (Co-sponsored by the Universidad Politecnica de Puerto Rico.</item>
+	<item>Mitcham, C. and Garcia de la Huerta, M.  (2001)  <emphasis>La Etica En La Profesion de Ingeniero: Ingenieria y Ciudadania</emphasis>.  Santiago, Chile: EDEH.  Universidad de Chile.</item>  </list><para id="element-613">
+Insert paragraph text here.
+</para></section><para id="appendix">This optional section contains additional or supplementary information related to this module. It could include: assessment, background such as supporting ethical theories and frameworks, technical information, discipline specific information, and references or links. </para>
+
+</section>
+
+<!-- END OF APPENDIX SECTION -->
+
+<!-- START OF EAC TOOLKIT REFERENCE SECTION -->
+   <section id="info-section">
+   <title>EAC ToolKit Project</title>
+
+   <section id="ref-info">
+   <title>This module is a WORK-IN-PROGRESS; the author(s) may update the content as needed.  Others are welcome to use this module or create a new derived module.  You can COLLABORATE to improve this module by providing suggestions and/or feedback on your experiences with this module.</title>
+   <para id="message">Please see the <link url="http://creativecommons.org/licenses/by/2.0/">Creative Commons License</link> regarding permission to reuse this material.</para>
+   </section>
+
+<section id="nsf-info">
+   <title>Funded by the National Science Foundation: "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779</title>
+   <para id="message3"/>
+   </section>
+</section>
+
+
+</content>
+</document>

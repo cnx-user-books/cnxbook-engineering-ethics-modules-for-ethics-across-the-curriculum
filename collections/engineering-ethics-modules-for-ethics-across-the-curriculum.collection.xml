@@ -1,0 +1,42 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10552</md:content-id>
+    <md:title>Engineering Ethics Modules for Ethics Across the Curriculum</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>31f0ed6d-d644-4924-a1c1-0a5d5bcef8fb</md:uuid>
+<md:slug>engineering-ethics-modules-for-ethics-across-the-curriculum</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction to Ethics in Engineering</md:title>
+      <col:content>
+        <col:module document="m17226"/>
+        <col:module document="m15783"/>
+        <col:module document="m13764"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Social and Global Impacts of Engineering</md:title>
+      <col:content>
+        <col:module document="m14025"/>
+        <col:module document="m43922"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ethical Decision Making in Engineering</md:title>
+      <col:content>
+        <col:module document="m13757"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Professional Responsibility in Engineering</md:title>
+      <col:content>
+        <col:module document="m15501"/>
+        <col:module document="m15627"/>
+        <col:module document="m44683"/>
+        <col:module document="m17318"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
